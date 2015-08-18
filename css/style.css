@@ -447,7 +447,7 @@ div {
   background-color: #ffffff;
 }
 
-.top-navigation > .content {
+.top-navigation .content {
   width: 970px;
   height: 70px;
   margin: 0 auto;
@@ -490,6 +490,13 @@ div {
   overflow: auto;
 }
 
+.introduction .content {
+  width: 970px;
+  height: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .introduction h1,
 .introduction h3 {
   color: white;
@@ -508,5 +515,17 @@ div {
 .introduction h3 {
   padding-top: -0.5rem;
   font-size: 1.563rem;
+}
+
+.big-button {
+  width: 9.688rem;
+  background-color: #F15A29;
+  text-shadow: none;
+  border-style: none;
+  border-radius: 4px;
+  padding: 16px 26px;
+  line-height: 1.33;  
+  font-size: 1.125rem;
+  color: white;
 }
   

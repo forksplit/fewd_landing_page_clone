@@ -529,3 +529,7 @@ div {
   color: white;
 }
   
+.introduction button:hover {
+  cursor: pointer;  
+  background-color: #D94000;
+}

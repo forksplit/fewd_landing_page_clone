@@ -568,3 +568,30 @@ div {
     margin: 2.5rem 0px 1.875rem;
 }
 
+/* The Footer */
+.social {
+  background-color: #fff;
+  }
+
+.social .content {
+  text-align: center;
+}
+
+.join {
+  text-align: center;
+  margin: 20px auto;
+  font-family: 'Roboto';
+}
+
+.social .icons > li {
+  display: inline-block;
+  list-style-type: none; 
+}
+
+hr {
+  width: 70%;
+}
+
+.copyright {
+  color: #A0A0A0;
+}
